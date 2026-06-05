@@ -1,0 +1,6 @@
+{
+  "name": "Happy 21st Birthday, Chika",
+  "description": "A beautiful, premium, interactive birthday story themed around a peaceful ocean at night, nostalgia, school memories, and meaningful joint moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
